@@ -35,4 +35,4 @@ validation:
     - 'check.mjs validates local links, ids and language pairs of the shipped templates; it does not validate engineering content.'
     - 'PDF export relies on the browser print engine; no automated PDF generation is included.'
     - 'Repository content has no declared licence (NOASSERTION); brand assets are AIPE Labs material.'
-documentation: [README.md, docs/guide.html, templates/report-engineering.html]
+documentation: [README.md, docs/guide.html, templates/report-engineering.html, docs/templates.md]
